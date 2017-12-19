@@ -1,2 +1,3 @@
 # fastgo
-a easy go web framework 
+a easy, fast go web framework 
+
